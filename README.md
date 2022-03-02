@@ -1,4 +1,6 @@
 # Ryzen 5800x + ASUS Rog Strix B550i
+Hackintosh Build
+
 purely for educational purposes
 
 ![photo](https://github.com/ausbennett/hackintosh-rog-b550i/blob/c250cc1dbebd3d40eb77b5a0b5fc9cf561ebe2fb/pictures/system_info.png)
